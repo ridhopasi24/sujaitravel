@@ -1,8 +1,0 @@
-assets/
-└── images/
-    ├── hero.jpg → [Gambar Danau Toba] → https://placehold.co/600x400/0ea5e9/ffffff?text=Danau+Toba
-    ├── gallery-1.jpg → https://placehold.co/300x300/10b981/ffffff?text=Objek+Wisata
-    ├── gallery-2.jpg → https://placehold.co/300x300/8b5cf6/ffffff?text=Samosir
-    ├── gallery-3.jpg → https://placehold.co/300x300/0ea5e9/ffffff?text=Makanan+Khas
-    ├── gallery-4.jpg → https://placehold.co/300x300/10b981/ffffff?text=Pelanggan+Happy
-    └── driver.jpg → https://placehold.co/500x400/10b981/ffffff?text=Supir+Lokal
